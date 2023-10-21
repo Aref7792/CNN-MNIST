@@ -1,4 +1,4 @@
-# CNN-MNIST
+# CNN-mnist
 
 This is a Python code for training a Convolutional Neural Network on mnist data set. 
 We have considered the limitation of 10,000 training parameters. 
